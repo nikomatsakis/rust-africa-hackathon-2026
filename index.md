@@ -60,7 +60,17 @@ The idea for Rust was to do a grand experiment -- could we build a language that
 
 ---
 
-# What about today?
+# 10 years later...
+
+.center[.p80[!["Rust turns 10" headline](./images/zdnet-10.png)]]
+
+???
+
+So, here we are, 10 years after 1.0 -- 15 years or so since I personally started working on Rust. Rust is used in Firefox, but it's used in a bunch of other places to. So last year, Rust turning 10 got some of us thinking--- what comes next for Rust? And that led us to a project we call the vision doc.
+
+---
+
+# What are we today?
 
 .center[.p80[![VisionDoc](./images/vision-doc-intro.png)]]
 
@@ -68,7 +78,9 @@ The idea for Rust was to do a grand experiment -- could we build a language that
 
 *Jack*
 
-Okay, so what about today? We all have some general ideas about where Rust is used and why, but not all the details. Rust did make its way into Firefox, but where else it is used?
+The idea of the vision doc was to help us answer some big questions about Rust.
+
+We all have some general ideas about where Rust is used and why, but not all the details. Rust did make its way into Firefox, but where else it is used?
 
 Earlier in the year, we started this group called to work on this thing called the "Vision Doc" with sort of two goals.
 
