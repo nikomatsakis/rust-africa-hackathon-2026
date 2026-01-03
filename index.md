@@ -70,7 +70,7 @@ So, here we are, 10 years after 1.0 -- 15 years or so since I personally started
 
 ---
 
-# What are we today?
+# Where are we today?
 
 .center[.p80[![VisionDoc](./images/vision-doc-intro.png)]]
 
